@@ -1,0 +1,25 @@
+  {
+    "name": "KRUSHNA",
+    "short_name": "APP",
+    "id": "V1",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#000",
+    "theme_color": "#000",
+    "start_url": "/APPLICATION-V1/",
+    "scope": "./",
+    "icons": [{
+      "src": "/APPLICATION/0.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }],
+    "shortcuts": [{
+      "name": "HOME",
+      "url": "/APPLICATION-V1/index.html",
+      "icons": [{
+        "src": "/APPLICATION/0.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }]
+    }]
+  }
